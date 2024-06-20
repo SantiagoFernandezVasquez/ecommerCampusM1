@@ -15,7 +15,13 @@
     height: 60px;
 }
 .header__information{
-    /* background: green; */
+    border-radius: 40px;
+    border-color: black;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 10px;
 }
 .header__information p{
     color: var(--color-2);
